@@ -1,0 +1,28 @@
+E:\INFORMATION PROCESSING\Snail\SnailCurrencyConverter\SnailCurrencyConverter\bin\Debug\SnailCurrencyConverter.exe.config
+E:\INFORMATION PROCESSING\Snail\SnailCurrencyConverter\SnailCurrencyConverter\bin\Debug\Assets\BrowserIcon.ico
+E:\INFORMATION PROCESSING\Snail\SnailCurrencyConverter\SnailCurrencyConverter\bin\Debug\SnailCurrencyConverter.exe
+E:\INFORMATION PROCESSING\Snail\SnailCurrencyConverter\SnailCurrencyConverter\bin\Debug\SnailCurrencyConverter.pdb
+E:\INFORMATION PROCESSING\Snail\SnailCurrencyConverter\SnailCurrencyConverter\obj\Debug\SnailCurrencyConverter.csprojResolveAssemblyReference.cache
+E:\INFORMATION PROCESSING\Snail\SnailCurrencyConverter\SnailCurrencyConverter\obj\Debug\SnailCurrencyConverter.MainForm.resources
+E:\INFORMATION PROCESSING\Snail\SnailCurrencyConverter\SnailCurrencyConverter\obj\Debug\SnailCurrencyConverter.Properties.Resources.resources
+E:\INFORMATION PROCESSING\Snail\SnailCurrencyConverter\SnailCurrencyConverter\obj\Debug\SnailCurrencyConverter.csproj.GenerateResource.Cache
+E:\INFORMATION PROCESSING\Snail\SnailCurrencyConverter\SnailCurrencyConverter\obj\Debug\SnailCurrencyConverter.exe
+E:\INFORMATION PROCESSING\Snail\SnailCurrencyConverter\SnailCurrencyConverter\obj\Debug\SnailCurrencyConverter.pdb
+E:\INFORMATION PROCESSING\Snail\SnailCurrencyConverter\SnailCurrencyConverter\bin\Debug\SnailCurrencyConverter.exe.manifest
+E:\INFORMATION PROCESSING\Snail\SnailCurrencyConverter\SnailCurrencyConverter\bin\Debug\SnailCurrencyConverter.application
+E:\INFORMATION PROCESSING\Snail\SnailCurrencyConverter\SnailCurrencyConverter\obj\Debug\SnailCurrencyConverter.exe.manifest
+E:\INFORMATION PROCESSING\Snail\SnailCurrencyConverter\SnailCurrencyConverter\obj\Debug\SnailCurrencyConverter.application
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 5 - Currency Converter\SnailCurrencyConverter\SnailCurrencyConverter\bin\Debug\SnailCurrencyConverter.exe.config
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 5 - Currency Converter\SnailCurrencyConverter\SnailCurrencyConverter\obj\Debug\SnailCurrencyConverter.exe
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 5 - Currency Converter\SnailCurrencyConverter\SnailCurrencyConverter\obj\Debug\SnailCurrencyConverter.pdb
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 5 - Currency Converter\SnailCurrencyConverter\SnailCurrencyConverter\bin\Debug\Assets\BrowserIcon.ico
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 5 - Currency Converter\SnailCurrencyConverter\SnailCurrencyConverter\bin\Debug\SnailCurrencyConverter.exe.manifest
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 5 - Currency Converter\SnailCurrencyConverter\SnailCurrencyConverter\bin\Debug\SnailCurrencyConverter.application
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 5 - Currency Converter\SnailCurrencyConverter\SnailCurrencyConverter\bin\Debug\SnailCurrencyConverter.exe
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 5 - Currency Converter\SnailCurrencyConverter\SnailCurrencyConverter\bin\Debug\SnailCurrencyConverter.pdb
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 5 - Currency Converter\SnailCurrencyConverter\SnailCurrencyConverter\obj\Debug\SnailCurrencyConverter.csprojResolveAssemblyReference.cache
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 5 - Currency Converter\SnailCurrencyConverter\SnailCurrencyConverter\obj\Debug\SnailCurrencyConverter.MainForm.resources
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 5 - Currency Converter\SnailCurrencyConverter\SnailCurrencyConverter\obj\Debug\SnailCurrencyConverter.Properties.Resources.resources
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 5 - Currency Converter\SnailCurrencyConverter\SnailCurrencyConverter\obj\Debug\SnailCurrencyConverter.csproj.GenerateResource.Cache
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 5 - Currency Converter\SnailCurrencyConverter\SnailCurrencyConverter\obj\Debug\SnailCurrencyConverter.exe.manifest
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 5 - Currency Converter\SnailCurrencyConverter\SnailCurrencyConverter\obj\Debug\SnailCurrencyConverter.application

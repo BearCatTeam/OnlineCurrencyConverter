@@ -1,0 +1,14 @@
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 5 - Currency Converter\SnailCurrencyConverter\SnailCurrencyConverter\bin\Release\SnailCurrencyConverter.exe.config
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 5 - Currency Converter\SnailCurrencyConverter\SnailCurrencyConverter\bin\Release\Assets\BrowserIcon.ico
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 5 - Currency Converter\SnailCurrencyConverter\SnailCurrencyConverter\bin\Release\SnailCurrencyConverter.exe.manifest
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 5 - Currency Converter\SnailCurrencyConverter\SnailCurrencyConverter\bin\Release\SnailCurrencyConverter.application
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 5 - Currency Converter\SnailCurrencyConverter\SnailCurrencyConverter\bin\Release\SnailCurrencyConverter.exe
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 5 - Currency Converter\SnailCurrencyConverter\SnailCurrencyConverter\bin\Release\SnailCurrencyConverter.pdb
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 5 - Currency Converter\SnailCurrencyConverter\SnailCurrencyConverter\obj\Release\SnailCurrencyConverter.MainForm.resources
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 5 - Currency Converter\SnailCurrencyConverter\SnailCurrencyConverter\obj\Release\SnailCurrencyConverter.Properties.Resources.resources
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 5 - Currency Converter\SnailCurrencyConverter\SnailCurrencyConverter\obj\Release\SnailCurrencyConverter.csproj.GenerateResource.Cache
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 5 - Currency Converter\SnailCurrencyConverter\SnailCurrencyConverter\obj\Release\SnailCurrencyConverter.exe.manifest
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 5 - Currency Converter\SnailCurrencyConverter\SnailCurrencyConverter\obj\Release\SnailCurrencyConverter.application
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 5 - Currency Converter\SnailCurrencyConverter\SnailCurrencyConverter\obj\Release\SnailCurrencyConverter.exe
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 5 - Currency Converter\SnailCurrencyConverter\SnailCurrencyConverter\obj\Release\SnailCurrencyConverter.pdb
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 5 - Currency Converter\SnailCurrencyConverter\SnailCurrencyConverter\obj\Release\SnailCurrencyConverter.csprojResolveAssemblyReference.cache
